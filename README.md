@@ -8,4 +8,4 @@ The gensim models have also been trained in order to produce the necessary word 
 
 The CSV files and gensim models are then stored in their respsective directories (for headlines and article bodies).
 
-Finally, the CSV files and gensim models are loaded into the notebooks "stem_mlp.ipynb" and "lemma_mlp.ipynb" in order to train the Multilayer Perceptron either with the Average Word2Vec method or TFIDF Average Word2Vec method.
+Finally, the CSV files and gensim models are loaded into the notebooks "stem_mlp.ipynb" and "lemma_mlp.ipynb" in order to train the Multilayer Perceptron either with the "Average Word2Vec" method or the "TFIDF-Average Word2Vec" method.
