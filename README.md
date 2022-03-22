@@ -7,7 +7,7 @@ The notebooks in the directories "stemming" and "lemmatization" are used in the 
 
 It is in these notebooks where the appropriate text preprocessing is implemented (nltk for stemming, spacy for lemmatization).
 
-The gensim models are also trained in order to produce the necessary word vectors.
+The gensim models are also trained in order to produce the necessary word vectors (Gensim was used).
 
 The CSV files (for headlines and article bodies) and gensim models are then stored in their respsective directories .
 
