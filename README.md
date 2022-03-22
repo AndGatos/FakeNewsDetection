@@ -1,4 +1,5 @@
-# FakeNewsDetection
+# Stance Detection --- Fake News Detection
+
 Machine Learning Course --- 2nd Assignment
 
 ## Google Colab notebooks
